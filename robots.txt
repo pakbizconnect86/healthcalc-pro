@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://pakbizconnect86.github.io/healthcalc-pro/sitemap.xml
